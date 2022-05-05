@@ -1,0 +1,7 @@
+#clima_bloque {
+    border: 2px dotted black;
+}
+
+#clima_bloque ul li {
+    display: inline;
+}
